@@ -1,2 +1,2 @@
 # BelieveWhatUC
-Variety of problems and assignments solved with C++. 
+Variety of problems and assignments using Data Structures solved in C++. 
